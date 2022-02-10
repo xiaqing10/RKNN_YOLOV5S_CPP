@@ -1,0 +1,7 @@
+/home/toybrick/workspace/rknn_yolov5_demo/build/CMakeFiles/install/strip.dir
+/home/toybrick/workspace/rknn_yolov5_demo/build/CMakeFiles/edit_cache.dir
+/home/toybrick/workspace/rknn_yolov5_demo/build/CMakeFiles/rknn_yolov5_demo.dir
+/home/toybrick/workspace/rknn_yolov5_demo/build/CMakeFiles/rebuild_cache.dir
+/home/toybrick/workspace/rknn_yolov5_demo/build/CMakeFiles/list_install_components.dir
+/home/toybrick/workspace/rknn_yolov5_demo/build/CMakeFiles/install/local.dir
+/home/toybrick/workspace/rknn_yolov5_demo/build/CMakeFiles/install.dir
